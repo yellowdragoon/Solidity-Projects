@@ -1,3 +1,6 @@
+// A simple counter app that only the owner can set the count of.
+// Using modifiers
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8;
