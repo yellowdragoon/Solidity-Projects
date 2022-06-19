@@ -1,2 +1,2 @@
 # Solidity-Basics
-First Adventures
+A repository of my Solidity mini-projects/code.
