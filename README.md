@@ -1,4 +1,4 @@
-# Solidity-Basics
+# Solidity-Projects
 A repository of my Solidity mini-projects/code.
 
 Currently, there are 2 main folders:
